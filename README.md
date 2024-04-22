@@ -1,0 +1,1 @@
+# Predicting-perminent-magnet-resistance-of-electric-motor-using-machine-learning-
